@@ -18,12 +18,40 @@ a,abbr,acronym,address,applet,b,big,blockquote,body,caption,center,cite,code,dd,
 
 .rallopl{
 	
-	margin:5px;
+	margin:15px;
+}
+
+@media only screen and (max-width: 1625px) {
+  .rallopl {
+    margin:0 350px;
+  }
 }
 
 
+@media only screen and (max-width: 1325px) {
+  .rallopl {
+    margin:0 230px;
+  }
+}
+
+@media only screen and (max-width: 1125px) {
+  .rallopl {
+    margin:0 130px;
+  }
+}
 
 
+@media only screen and (max-width: 925px) {
+  .rallopl {
+    margin:0 45px;
+  }
+}
+
+@media only screen and (max-width: 768px) {
+  .rallopl {
+    margin:0 10px;
+  }
+}
 
 
 
